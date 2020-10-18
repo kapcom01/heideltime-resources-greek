@@ -1,7 +1,10 @@
 Greek language resources for [HeidelTime](https://github.com/HeidelTime/heideltime) developed using [WikiWarsEL](https://github.com/mkapernaros/WikiWarsEL) corpus for the training process and [TestWarsEL](https://github.com/mkapernaros/TestWarsEL) for the evaluation process.
 
+For an online demo please vitit <http://heideltime-el-demo.root.sx:3000>
+
 Evaluation results:
-| | F-Score | Precision | Recall |
+
+| | F_Score | Precision | Recall |
 |:-----|:--------------|:-----------|:------------|
 | Strict Match | 85.87 | 83.37 | 88.53 |
 | Relaxed Match | 94.33 | 91.58 | 97.25 |
