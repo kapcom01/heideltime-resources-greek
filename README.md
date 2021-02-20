@@ -1,6 +1,6 @@
 Greek language resources for [HeidelTime](https://github.com/HeidelTime/heideltime) developed using [WikiWarsEL](https://github.com/mkapernaros/WikiWarsEL) corpus for the training process and [TestWarsEL](https://github.com/mkapernaros/TestWarsEL) for the evaluation process.
 
-For an online demo please vitit <http://heideltime-el-demo.root.sx:3000>
+For an online demo please vitit <https://heideltime-el-demo.root.sx>
 
 Evaluation results:
 
